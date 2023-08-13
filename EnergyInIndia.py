@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import pandas as pd
 
-path = "C://Users//Lakshya Saxena//Downloads//EnergyInIndia.csv"
+path = "C://Users//Lakshya Saxena//Downloads//EnergyInIndia.csv" # Please enter the file location from your PC
 df = pd.read_csv(path)
 
 
